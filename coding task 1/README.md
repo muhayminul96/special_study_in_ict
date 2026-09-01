@@ -1,4 +1,4 @@
-# Scikit-Learn Algorithms One-Line Summary
+# Scikit-Learn Algorithms
 
 ###  Classification
 * **Logistic Regression:** Linear classifier that estimates class probabilities using the sigmoid function.
